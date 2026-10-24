@@ -1,2 +1,2 @@
 #minha assistente
-este é meu primeiro projeto conectado ao githubs 
+este é meu primeiro projeto conectado ao github
